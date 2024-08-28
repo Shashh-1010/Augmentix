@@ -1,0 +1,25 @@
+.filter-buttons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .filter-buttons button {
+    margin: 0 5px;
+    padding: 10px;
+    border: none;
+    background-color: #0288d1;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .filter-buttons button:hover {
+    background-color: #01579b;
+  }
+  
+  ul {
+    padding: 0;
+  }
+  
